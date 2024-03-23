@@ -1,4 +1,4 @@
 streamlit
 pandas
 ultralytics
-cv
+cv2
