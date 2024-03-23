@@ -1,5 +1,5 @@
 import streamlit as st
-import cv2 
+import opencv-python-headless as cv2
 from ultralytics import YOLO
 import pandas as pd
 
